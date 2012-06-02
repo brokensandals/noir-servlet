@@ -35,7 +35,7 @@ Example web.xml:
 
       <servlet>
         <servlet-name>noir</servlet-name>
-        <servlet-class>noir-servlet.servlet</servlet-class>
+        <servlet-class>noir_servlet.servlet</servlet-class>
         <init-param>
           <param-name>views-ns</param-name>
           <param-value>my-webapp.views</param-value>
