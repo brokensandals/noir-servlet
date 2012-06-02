@@ -2,6 +2,26 @@
 
 An HttpServlet subclass that delegates all requests to Noir. A views namespace must be supplied.
 
+## Installation
+
+Leiningen:
+
+    :dependencies [[noir-servlet "0.1.0"]]
+
+Maven:
+
+    <dependency>
+      <groupId>noir-servlet</groupId>
+      <artifactId>noir-servlet</artifactId>
+      <version>0.1.0</version>
+    </dependency>
+    <repositories>
+      <repository>
+        <id>clojars</id>
+        <url>http://clojars.org</url>
+      </repository>
+    </repositories>
+
 ## Usage
 
 Example web.xml:
