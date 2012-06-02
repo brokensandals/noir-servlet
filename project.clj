@@ -1,4 +1,4 @@
-(defproject noir-servlet "0.1.0"
+(defproject noir-servlet "0.2.0-SNAPSHOT"
   :description "An HttpServlet subclass that delegates to a Noir handler."
   :url "http://github.com/brokensandals/noir-servlet"
   :license {:name "Eclipse Public License"

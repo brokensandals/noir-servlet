@@ -18,7 +18,7 @@ Maven:
     <repositories>
       <repository>
         <id>clojars</id>
-        <url>http://clojars.org</url>
+        <url>http://clojars.org/repo</url>
       </repository>
     </repositories>
 
